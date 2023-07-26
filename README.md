@@ -1,11 +1,11 @@
 Hey, I’m @LittrellG
 
-I am a full stack developer for a consulting firm based in the DFW area of Texas. 
+I am a full stack developer for a large technology firm with sites across the United States. 
 Prior to my full stack experience, I worked as a simulation and tactical application developer.
 
-My Github profile doesn't have many projects in it at the moment, but that's mainly due to my schedule in the past.
-I was working to transition from Aerospace Engineering to Software Engineering and spent a lot of time on school.
-I just finished up my Masters of Science in Computer Science with Georgia Tech, and I'm ready to build up my personal projects.
+My Github profile doesn't have many public projects in it at the moment, but that's primarily due
+to how much I involve myself at work and my past academic work that I cannot post publicly. I have
+a few private repos that I can display if requested. 
 
 Feel free to connect with me on LinkedIn @ https://www.linkedin.com/in/gerardlittrell18/
 Or checkout my website @ https://gerardjlittrell.com/
